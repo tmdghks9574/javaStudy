@@ -1,6 +1,9 @@
+package javaStudy;
+
 import java.util.*;
 import java.math.*;
 import java.io.*;
+
 
 public class Study {
 
